@@ -1,3 +1,16 @@
+# Integrantes
+
+Matheus Perestrelo - 93260
+Lucas Santana de Paula - 95338
+José Victor - 95633
+Gabriel Toledo - 93152
+Guilherme Tomé - 94186
+
+# Vídeo Funcionamento
+
+https://share.cleanshot.com/tJm6ydYH
+
+
 # Ideia por trás do projeto
 
 Traffic Sense
