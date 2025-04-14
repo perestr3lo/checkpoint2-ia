@@ -1,9 +1,9 @@
-import cv2
-import numpy as np
-import os
-import torch
-from ultralytics import YOLO
-import warnings
+import cv2 // Processsamento de imagens e videos
+import numpy as np // Manipulação de arrays e matrizes
+import os // Interação com o sistema operacional
+import torch // Treinamento e geração de modelos de redes neurais
+from ultralytics import YOLO // Detecção de objetos em imagens e vídeos
+import warnings // Controlar e exibir mensagens de alertas
 
 # Suprimir FutureWarnings relacionados ao torch.cuda.amp.autocast
 warnings.filterwarnings('ignore', category=FutureWarning)
