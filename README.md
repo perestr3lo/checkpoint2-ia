@@ -1,9 +1,9 @@
 # Integrantes
 
-Matheus Perestrelo - 93260
-Lucas Santana de Paula - 95338
-José Victor - 95633
-Gabriel Toledo - 93152
+Matheus Perestrelo - 93260<br>
+Lucas Santana de Paula - 95338<br>
+José Victor - 95633<br>
+Gabriel Toledo - 93152<br>
 Guilherme Tomé - 94186
 
 # Vídeo Funcionamento
